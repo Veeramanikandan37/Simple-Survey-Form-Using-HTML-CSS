@@ -1,0 +1,40 @@
+body{
+    margin: 0px;
+}
+main{
+    margin: 2rem;
+    padding: 1.5rem;
+    width: 700px;
+    background-color: lightyellow;
+    justify-content: center;
+}
+header{
+    text-align: center;
+}
+h1{
+    letter-spacing: 3px;
+}
+header h1,a{
+    display: inline-block;
+    
+}
+.label{
+    display: inline-block;
+    margin-right: 10rem;
+}
+label{
+    display: block;
+    padding: 10px 0px 10px 0px;
+}
+input{
+    padding: 5px 20px 0px 5px;
+    background-color: lightgray;
+    border: none;
+    border-radius: 5px;  
+}
+.label1 input,.lab{
+    display: inline-block;
+}
+.block1{
+    display: block;
+}
